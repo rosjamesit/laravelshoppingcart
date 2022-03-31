@@ -5,7 +5,7 @@
 
 A Shopping Cart Implementation for Laravel Framework
 
-## QUICK PARTIAL DEMO
+## QUICK PARTIAL DEMO test1
 
 Demo: https://shoppingcart-demo.darrylfernandez.com/cart
 
